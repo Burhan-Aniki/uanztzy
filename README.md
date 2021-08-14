@@ -197,3 +197,5 @@ Informasi lebih lengkap bisa hubungi saya melalui sosial media di bawah :
 ### Thank To
 <a href="https://github.com/MhankBarBar/MhankBarBar"><img src="https://img.shields.io/badge/MhankBarBar/Termux wabot-black?style=flat-square&logo=github"></a>
 <a href="https://github.com/adiwajshing/Baileys"><img src="https://img.shields.io/badge/-adiwajshing/Baileys-black?style=flat-square&logo=github"></a>
+# uanhanz
+# uanganz

@@ -70,8 +70,8 @@ Jika ragu, sebelum menginstal Naomi coba dulu botnya disini
 Informasi lebih lengkap bisa hubungi saya melalui sosial media di bawah :
 
 <p>
-<a href="http://wa.me/6282223014661" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
-<a href="http://www.instagram.com/mrf.zvx/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
+<a href="http://wa.me/6285795669601" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://www.instagram.com/nazuantzy/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
 <a href="https://www.facebook.com/profile.php?id=100028409167054" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
 </p>
 
@@ -197,5 +197,4 @@ Informasi lebih lengkap bisa hubungi saya melalui sosial media di bawah :
 ### Thank To
 <a href="https://github.com/MhankBarBar/MhankBarBar"><img src="https://img.shields.io/badge/MhankBarBar/Termux wabot-black?style=flat-square&logo=github"></a>
 <a href="https://github.com/adiwajshing/Baileys"><img src="https://img.shields.io/badge/-adiwajshing/Baileys-black?style=flat-square&logo=github"></a>
-# uanhanz
 # uanganz

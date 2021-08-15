@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/mrfzvx12"><img title="mrfzvx12" src="https://img.shields.io/badge/github-Mrfzvx12-orange.svg?style=social&logo=github"></a>
+<a href="https://github.com/Uan-ai"><img title="Uan-ai" src="https://img.shields.io/badge/github-Uan-ai-orange.svg?style=social&logo=github"></a>
 </p>
 
 <a href="https://github.com/Uan-ai/followers"><img title="Followers" src="https://img.shields.io/github/followers/Uan-ai?label=Followers&style=social"></a>
@@ -61,9 +61,9 @@ setelah keluar QR code pada termux, lalu kalian scan menggunakan nomor WhatsApp 
   <summary>CONTACTS</summary>
 
 ### Tes bot
-Jika ragu, sebelum menginstal Naomi coba dulu botnya disini
+Hubungi owner jika bermasalah
 <p>
-<a href="https://wa.me/6285774407693?text=.menu" target="blank"><img src="https://img.shields.io/badge/WhatsApp Bot Lexa v3-30302f?style=flat&logo=whatsapp" /></a>
+<a href="https://wa.me/6285795669601?text=.menu" target="blank"><img src="https://img.shields.io/badge/WhatsApp Bot Lexa v3-30302f?style=flat&logo=whatsapp" /></a>
 </p>
 
 ### Let's connect with me
@@ -72,13 +72,13 @@ Informasi lebih lengkap bisa hubungi saya melalui sosial media di bawah :
 <p>
 <a href="http://wa.me/6285795669601" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 <a href="http://www.instagram.com/nazuantzy/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
-<a href="https://www.facebook.com/profile.php?id=100028409167054" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
+<a href="https://www.facebook.com/sagiri.izumi.1238292" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
 </p>
 
   </details>
 
   <details close="close">
-  <summary>MENU NAOMI</summary>
+  <summary>MENU </summary>
 
 ### List Menu
 
@@ -197,4 +197,4 @@ Informasi lebih lengkap bisa hubungi saya melalui sosial media di bawah :
 ### Thank To
 <a href="https://github.com/MhankBarBar/MhankBarBar"><img src="https://img.shields.io/badge/MhankBarBar/Termux wabot-black?style=flat-square&logo=github"></a>
 <a href="https://github.com/adiwajshing/Baileys"><img src="https://img.shields.io/badge/-adiwajshing/Baileys-black?style=flat-square&logo=github"></a>
-# uanganz
+# Moshi Moshi minaaa

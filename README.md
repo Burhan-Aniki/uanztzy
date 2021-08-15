@@ -2,7 +2,7 @@
 <a href="https://github.com/mrfzvx12"><img title="mrfzvx12" src="https://img.shields.io/badge/github-Mrfzvx12-orange.svg?style=social&logo=github"></a>
 </p>
 
-<a href="https://github.com/Uan-ai/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfzvx12?label=Followers&style=social"></a>
+<a href="https://github.com/Uan-ai/followers"><img title="Followers" src="https://img.shields.io/github/followers/Uan-ai?label=Followers&style=social"></a>
 <a href="https://github.com/Uan-ai/uanztzy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfzvx12/lexav3?&style=social"></a>
 <a href="https://github.com/Uan-ai/uanztzy/network/members"><img title="Fork" src="https://img.shields.io/github/forks/mrfzvx12/lexav3?style=social"></a>
 <a href="https://github.com/Uan-ai/uanztzy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrfzvx12/lexav3?label=Watching&style=social"></a>

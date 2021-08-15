@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/mrfzvx12"><img title="Author" src="https://img.shields.io/badge/Lexa x Naomi-V3-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Uan-ai"><img title="Author" src="https://img.shields.io/badge/Lexa x Naomi-V3-orange?style=for-the-badge&logo=github"></a>
 </p>
 
 
 <p align="center">
-<a href="https://github.com/mrfzvx12/lexav3"><img src="https://img.shields.io/github/repo-size/mrfzvx12/lexav3?label=Repo%20size&style=plastic"></a>
-<a href="https://www.codefactor.io/repository/github/mrfzvx12/lexav3"><img src="https://www.codefactor.io/repository/github/mrfzvx12/lexav3/badge" alt="CodeFactor" /></a>
+<a href="https://github.com/Uan-ai/lexav3"><img src="https://img.shields.io/github/repo-size/mrfzvx12/lexav3?label=Repo%20size&style=plastic"></a>
+<a href="https://www.codefactor.io/repository/github/Uan-ai/lexav3"><img src="https://www.codefactor.io/repository/github/mrfzvx12/lexav3/badge" alt="CodeFactor" /></a>
 
 </p>
 

@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Uan-ai"><img title="Uan-ai" src="https://img.shields.io/badge/github-Uan-ai-orange.svg?style=social&logo=github"></a>
+<a href="https://github.com/Uan-ai"><img title="mrfzvx12" src="https://img.shields.io/badge/github-mrfzvx12-orange.svg?style=social&logo=github"></a>
 </p>
 
 <a href="https://github.com/Uan-ai/followers"><img title="Followers" src="https://img.shields.io/github/followers/Uan-ai?label=Followers&style=social"></a>
